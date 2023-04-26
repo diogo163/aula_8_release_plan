@@ -40,7 +40,10 @@ Criação de uma página de suporte para ajudar os usuários com problemas de lo
 Medição de Prioridade:
 
 Implementação da criptografia de senha e autenticação de dois fatores (alta prioridade) - garantir que a segurança do usuário esteja em primeiro lugar.
+
 Testes de desempenho e segurança da funcionalidade de login em diferentes navegadores e dispositivos (média prioridade) - garantir que a funcionalidade de login funcione sem problemas em todas as plataformas.
+
+
 Criação de uma página de suporte para ajudar os usuários com problemas de login (baixa prioridade) - garantir que os usuários possam obter ajuda sempre que necessário.
 
 
