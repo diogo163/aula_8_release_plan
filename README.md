@@ -43,7 +43,10 @@ Implementação da criptografia de senha e autenticação de dois fatores (alta 
 
 Testes de desempenho e segurança da funcionalidade de login em diferentes navegadores e dispositivos (média prioridade) - garantir que a funcionalidade de login funcione sem problemas em todas as plataformas.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4910f1cc2f962de68a54c51d12742b363a0d6b94
 Criação de uma página de suporte para ajudar os usuários com problemas de login (baixa prioridade) - garantir que os usuários possam obter ajuda sempre que necessário.
 
 
